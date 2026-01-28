@@ -1,4 +1,4 @@
-### Hi there, I'm Haoqi Yang (杨浩奇) 👋
+### Hi there, I'm Haoqi Yang (杨皓琪) 👋
 
 🎓 **M.S. in Industrial and Systems Engineering (Data Analytics)** @ [National University of Singapore (NUS)](https://nus.edu.sg/)  
 🎓 **B.S. in Management Science** @ Shanghai University
