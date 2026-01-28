@@ -1,4 +1,4 @@
-### Hi there, I'm Haoqi Yang (杨皓琪) 👋
+### Hi there, I'm Haoqi Yang (杨浩奇) 👋
 
 🎓 **M.S. in Industrial and Systems Engineering (Data Analytics)** @ [National University of Singapore (NUS)](https://nus.edu.sg/)  
 🎓 **B.S. in Management Science** @ Shanghai University
@@ -10,7 +10,7 @@ I am a graduate student passionate about **Data Analytics, Machine Learning, and
 
 - 🔭 I’m currently working on **AI Agents & Data Visualization**.
 - 🌱 I’m currently learning **Advanced Statistical Learning & Energy Transition Models**.
-- 💼 Actively looking for **Business Analysis / Consulting / Operations** opportunities in China and Singapore (2025/2026).
+- 💼 Actively looking for **Business Analysis / Consulting / Operations** opportunities in China (2025/2026).
 - 💬 Ask me about **Python, R, Streamlit, or E3 Modeling**.
 
 ---
@@ -51,7 +51,7 @@ I am a graduate student passionate about **Data Analytics, Machine Learning, and
   <a href="mailto:e1520138@u.nus.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="www.linkedin.com/in/haoqi-yang-a5aa5b301">
+  <a href="https://www.linkedin.com/in/haoqi-yang-a5aa5b301">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
